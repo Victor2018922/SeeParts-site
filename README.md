@@ -1,2 +1,2 @@
 # SeeParts-site
-SeeParts.com official site for European truck parts
+Welcome to the SeeParts project! This website provides parts for European trucks.
